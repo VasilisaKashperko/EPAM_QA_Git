@@ -21,7 +21,7 @@ namespace Aircompany
             new MilitaryPlane("B-52 Stratofortress", 1000, 20000, 80000, MilitaryType.Bomber),
             new MilitaryPlane("F-15", 1500, 12000, 10000, MilitaryType.Fighter),
             new MilitaryPlane("F-22", 1550, 13000, 11000, MilitaryType.Fighter),
-            new MilitaryPlane("C-130 Hercules", 650, 5000, 110000, MilitaryType.Fighter)
+            new MilitaryPlane("C-130 Hercules", 650, 5000, 110000, MilitaryType.Transport)
     };
         public static void Main(string[] args)
         {
