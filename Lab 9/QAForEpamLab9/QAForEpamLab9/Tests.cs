@@ -76,6 +76,9 @@ namespace QAForEpamLab9
             driver.FindElement(By.XPath("/html/body/div[1]/div[1]/div[5]/div[3]/section[5]/div[2]/div/ul/li[46]/a")).Click();
 
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
+
+            Assert.AreEqual("https://www.hotelscombined.com/Place/Switzerland.htm", driver.Url);
+
             driver.Quit();
         }
     }
