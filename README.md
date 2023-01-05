@@ -6,7 +6,9 @@ song.txt <br>
 pursuit.txt <br>
 arrows.txt <br>
 .gitignore <br>
-Global-Automated-Testing-Foundations-Learn.png
+Global-Automated-Testing-Foundations-Learn.png <br> <br>
+And the backup is here: <br>
+https://github.com/VasilisaKashperko/EPAM_QA_Git_Backup
 
 Lab 2 | <b> SDLC </b>
 
